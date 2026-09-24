@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ganesh-portfolio-vert.vercel.app/sitemap.xml
